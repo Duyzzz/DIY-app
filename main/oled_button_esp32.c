@@ -272,7 +272,7 @@ void screen_task(void *pvParameter)
                         int startPage = vehicleVerticalPosition[vehicleFrame];
                         int endPage = startPage + 6;
                         ESP_LOGD(TAG, "page=%d vehicleVerticalPosition1=%d startPage=%d endPage=%d",
-                                 page, vehicleVerticalPosition[vehicleFrame], startPage, endPage);
+                                page, vehicleVerticalPosition[vehicleFrame], startPage, endPage);
                         int vehicleIndex = vehicleFrame * 1024;
                         int vehicleOffset = 0;
                         for (int _page = startPage; _page < endPage; _page++)
@@ -315,7 +315,7 @@ void screen_task(void *pvParameter)
                     }
                     gpio_set_level(LED, 1);
                     // config = false;
-                    vTaskDelay(pdMS_TO_TICKS(200));
+                    // vTaskDelay(pdMS_TO_TICKS(200));
                 }
                 // if (button_select)
                 // {
