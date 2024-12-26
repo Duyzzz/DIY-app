@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/university/projects/oledAndEsp32/oled_button_esp32/build/CMakeFiles/bootloader
+D:/university/projects/oledAndEsp32/oled_button_esp32/build/CMakeFiles/bootloader.rule
+D:/university/projects/oledAndEsp32/oled_button_esp32/build/CMakeFiles/bootloader-complete.rule
+D:/university/projects/oledAndEsp32/oled_button_esp32/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/university/projects/oledAndEsp32/oled_button_esp32/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/university/projects/oledAndEsp32/oled_button_esp32/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/university/projects/oledAndEsp32/oled_button_esp32/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/university/projects/oledAndEsp32/oled_button_esp32/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/university/projects/oledAndEsp32/oled_button_esp32/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/university/projects/oledAndEsp32/oled_button_esp32/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

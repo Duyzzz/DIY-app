@@ -1,0 +1,7 @@
+{
+    "idf.portWin": "COM8",
+    "idf.flashType": "UART",
+    "files.associations": {
+        "font8x8_basic.h": "c"
+    }
+}

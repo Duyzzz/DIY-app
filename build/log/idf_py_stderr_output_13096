@@ -1,0 +1,57 @@
+[0;33m--- Warning: GDB cannot open serial ports accessed as COMx[0m
+[0;33m--- Using \\.\COM8 instead...[0m
+[0;33m--- esp-idf-monitor 1.5.0 on \\.\COM8 115200[0m
+[0;33m--- Quit: Ctrl+] | Menu: Ctrl+T | Help: Ctrl+T followed by Ctrl+H[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x40081240: call_start_cpu1 at C:/Espressif/frameworks/esp-idf-v5.1.5/components/esp_system/port/cpu_start.c:159
+[0m
+[0;33m--- 0x400da333: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.1.5/components/esp_system/task_wdt/task_wdt.c:489 (discriminator 3)
+0x400da700: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.1.5/components/esp_system/task_wdt/task_wdt.c:565
+0x40082b1d: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.1.5/components/freertos/FreeRTOS-Kernel/portable/xtensa/xtensa_vectors.S:1240
+0x400d58de: screen_task at D:/university/projects/oledAndEsp32/oled_button_esp32/main/oled_button_esp32.c:96
+0x400893cd: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.1.5/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m--- 0x400da333: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.1.5/components/esp_system/task_wdt/task_wdt.c:489 (discriminator 3)
+0x400da700: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.1.5/components/esp_system/task_wdt/task_wdt.c:565
+0x40082b1d: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.1.5/components/freertos/FreeRTOS-Kernel/portable/xtensa/xtensa_vectors.S:1240
+0x400d58de: screen_task at D:/university/projects/oledAndEsp32/oled_button_esp32/main/oled_button_esp32.c:96
+0x400893cd: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.1.5/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m--- 0x400da333: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.1.5/components/esp_system/task_wdt/task_wdt.c:489 (discriminator 3)
+0x400da700: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.1.5/components/esp_system/task_wdt/task_wdt.c:565
+0x40082b1d: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.1.5/components/freertos/FreeRTOS-Kernel/portable/xtensa/xtensa_vectors.S:1240
+0x400d58de: screen_task at D:/university/projects/oledAndEsp32/oled_button_esp32/main/oled_button_esp32.c:96
+0x400893cd: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.1.5/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m--- 0x400da333: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.1.5/components/esp_system/task_wdt/task_wdt.c:489 (discriminator 3)
+0x400da700: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.1.5/components/esp_system/task_wdt/task_wdt.c:565
+0x40082b1d: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.1.5/components/freertos/FreeRTOS-Kernel/portable/xtensa/xtensa_vectors.S:1240
+0x400d58de: screen_task at D:/university/projects/oledAndEsp32/oled_button_esp32/main/oled_button_esp32.c:96
+0x400893cd: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.1.5/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m--- 0x400da333: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.1.5/components/esp_system/task_wdt/task_wdt.c:489 (discriminator 3)
+0x400da700: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.1.5/components/esp_system/task_wdt/task_wdt.c:565
+0x40082b1d: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.1.5/components/freertos/FreeRTOS-Kernel/portable/xtensa/xtensa_vectors.S:1240
+0x400d58de: screen_task at D:/university/projects/oledAndEsp32/oled_button_esp32/main/oled_button_esp32.c:96
+0x400893cd: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.1.5/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m--- 0x400da333: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.1.5/components/esp_system/task_wdt/task_wdt.c:489 (discriminator 3)
+0x400da700: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.1.5/components/esp_system/task_wdt/task_wdt.c:565
+0x40082b1d: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.1.5/components/freertos/FreeRTOS-Kernel/portable/xtensa/xtensa_vectors.S:1240
+0x400d58de: screen_task at D:/university/projects/oledAndEsp32/oled_button_esp32/main/oled_button_esp32.c:96
+0x400893cd: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.1.5/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m--- 0x400da333: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.1.5/components/esp_system/task_wdt/task_wdt.c:489 (discriminator 3)
+0x400da700: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.1.5/components/esp_system/task_wdt/task_wdt.c:565
+0x40082b1d: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.1.5/components/freertos/FreeRTOS-Kernel/portable/xtensa/xtensa_vectors.S:1240
+0x400d58de: screen_task at D:/university/projects/oledAndEsp32/oled_button_esp32/main/oled_button_esp32.c:96
+0x400893cd: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.1.5/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m--- 0x400da333: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.1.5/components/esp_system/task_wdt/task_wdt.c:489 (discriminator 3)
+0x400da700: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.1.5/components/esp_system/task_wdt/task_wdt.c:565
+0x40082b1d: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.1.5/components/freertos/FreeRTOS-Kernel/portable/xtensa/xtensa_vectors.S:1240
+0x400d58de: screen_task at D:/university/projects/oledAndEsp32/oled_button_esp32/main/oled_button_esp32.c:96
+0x400893cd: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.1.5/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0m
